@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/mesif_16x16x32.png</file>
+        <file>icons/mesif_32x32x32.png</file>
+        <file>icons/mesif_48x48x32.png</file>
+        <file>icons/mesif_128x128x32.png</file>
+        <file>icons/mesif.icns</file>
+        <file>icons/mesif.ico</file>
+        <file>icons/mesif.png</file>
+        <file>icons/logo1.png</file>
+        <file>icons/logo2.png</file>
+        <file>icons/logo3.png</file>
+        <file>icons/pause.png</file>
+        <file>icons/play.png</file>
+        <file>icons/step.png</file>
+        <file>icons/stop.png</file>
+        <file>icons/dialogapply.ico</file>
+        <file>icons/dialogapply.png</file>
+        <file>icons/editdelete.ico</file>
+        <file>icons/editdelete.png</file>
+        <file>icons/folder.ico</file>
+        <file>icons/folder.png</file>
+        <file>icons/galternatives.ico</file>
+        <file>icons/galternatives.png</file>
+        <file>icons/gnomeplanner.ico</file>
+        <file>icons/gnomeplanner.png</file>
+        <file>icons/gtksortdescending.ico</file>
+        <file>icons/gtksortdescending.png</file>
+        <file>icons/documentsave.ico</file>
+        <file>icons/documentsave.png</file>
+        <file>icons/stock.png</file>
+        <file>icons/stock.ico</file>
+    </qresource>
+</RCC>
